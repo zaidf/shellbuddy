@@ -1,15 +1,22 @@
 # shellbuddy
 Quickly bookmark hard-to-remember shell commands 
 
-# Bash Configs
-Add following lines to your .bash_rc file:
+# Configs
+1. Add following lines to your .bash_rc file:
 
+```
 export HISTSIZE=-1
-export HISTFILESIZE=-1
-export HISTTIMEFORMAT="%F %T "
-alias buddy="node <path to shellbuddy.js>"
 
-# Commands
+export HISTFILESIZE=-1
+
+export HISTTIMEFORMAT="%F %T "
+
+alias buddy="node <path to shellbuddy.js>"
+```
+
+2. Edit shellbuddy.js to make sure historyjson_path points to your bash history file
+
+# Usage
 
 *buddy php*
  search for bookmarks containing 'php'
