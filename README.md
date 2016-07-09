@@ -1,6 +1,9 @@
 # shellbuddy
 Quickly bookmark hard-to-remember shell commands 
 
+![Image]
+(https://s31.postimg.org/v809m5zhn/Screen_Shot_2016_07_09_at_5_32_07_AM.png)
+
 # Configs
 1. Add following lines to your .bash_rc file:
 
