@@ -16,21 +16,14 @@ Make sure to edit last line with path.
 
 # Usage
 
-*buddy php*
- search for bookmarks containing 'php'
+* _buddy php_  - search for bookmarks containing 'php'
 
-*buddy -l*
- list all bookmarks
+* _buddy -l_ list all bookmarks
 
-*buddy -h*
- see recent bash history
+* _buddy_  - see recent bash history
 
-*buddy -a reload mysql*
- bookmark the last bash command with given 
+* _buddy -a reload mysql_ - bookmark the last bash command with given 
  
-*buddy -a install LAMP -mc 3 8*
- bookmark command #3 and #8 with given comment. 
- must run buddy -h first to get command numbers.
+* _buddy -a install LAMP -mc 3 8_ - bookmark command #3 and #8 with given comment. must run buddy -h first to get command numbers.
 
-*buddy -r 3*
- remove bookmark #3 obtained from buddy -l
+* _buddy -r 3_ - remove bookmark #3 obtained from buddy -l
