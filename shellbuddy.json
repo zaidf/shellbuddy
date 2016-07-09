@@ -1,0 +1,1 @@
+[{"time":"1468031875","command":"nvm ls","comment":"see list of node versions in nvm"},{"time":"1468032170","command":"ls -l","comment":"see list of files in folder"},{"time":"1468035876","command":"ls -l","comment":"see all files and details"}]
