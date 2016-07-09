@@ -6,13 +6,11 @@ Quickly bookmark hard-to-remember shell commands
 
 ```
 export HISTSIZE=-1
-
 export HISTFILESIZE=-1
-
 export HISTTIMEFORMAT="%F %T "
-
 alias buddy="node <path to shellbuddy.js>"
 ```
+Make sure to edit last line with path.
 
 2. Edit shellbuddy.js to make sure historyjson_path points to your bash history file
 
