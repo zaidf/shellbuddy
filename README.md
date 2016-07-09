@@ -10,9 +10,9 @@ export HISTFILESIZE=-1
 export HISTTIMEFORMAT="%F %T "
 alias buddy="node <path to shellbuddy.js>"
 ```
-Make sure to edit last line with path.
+2. Make sure to edit last line with path.
 
-2. Edit shellbuddy.js to make sure historyjson_path points to your bash history file
+3. Edit shellbuddy.js to make sure historyjson_path points to your bash history file
 
 # Usage
 
