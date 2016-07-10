@@ -23,7 +23,7 @@ alias buddy="node <path to shellbuddy.js>"
 
 * _buddy -l_ list all bookmarks
 
-* _buddy_  - see recent bash history
+* _buddy_ -h - see recent bash history
 
 * _buddy -a reload mysql_ - bookmark the last bash command with given 
  
